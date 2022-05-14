@@ -16,7 +16,11 @@
     $ source venv/Scripts/activate
 
 #### 3- Installing Dependencies
-    $ pip install -r requirements.txt
+    # Linux / MacOS
+    $ pip install -r requirements-mac.txt
+    
+    # Windows
+    $ pip install -r requirements-win.txt
 
 #### 4- Starting Jupyter Lab
     # Linux / MacOS
@@ -30,4 +34,5 @@
 
 #### Info: Installing Package
     $ pip install <package>
-    $ pip freeze > requirements.txt
+    $ pip freeze > requirements-mac.txt
+    $ pip freeze > requirements-win.txt
