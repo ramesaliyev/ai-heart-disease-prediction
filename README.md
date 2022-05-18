@@ -1,4 +1,4 @@
-# Jupyter Template
+# AI Heart Disease Prediction
 
 ## Python Env Setup
 
