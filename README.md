@@ -1,5 +1,7 @@
 # AI Heart Disease Prediction
 
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg "Open in Kaggle")](https://www.kaggle.com/code/ramesaliyev/heart-disease-prediction-pipeline-with-ml-f1-0-4)
+
 ## Python Env Setup
 
 #### 1- Create Environment
