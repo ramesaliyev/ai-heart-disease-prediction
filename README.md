@@ -2,6 +2,8 @@
 
 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg "Open in Kaggle")](https://www.kaggle.com/code/ramesaliyev/heart-disease-prediction-pipeline-with-ml-f1-0-4)
 
+Heart disease prediction done by using [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) dataset with various machine learning algorithms.
+
 ## Python Env Setup
 
 #### 1- Create Environment
